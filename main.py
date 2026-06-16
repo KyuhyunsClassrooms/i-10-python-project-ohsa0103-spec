@@ -191,9 +191,9 @@ print(f" 매니저 성함: {player_name} | 최종 획득 자산: 💰 {gold} Gol
 if gold >= 400:
     grade = "🏆 S등급 (전무후무 최고의 섬 관리인)"
 elif gold >= 200:
-    grade = "🥇 A등급 (우수한 섬 관리인)"
+    grade = "🥇 A등급 (안빈낙도 관리인)"
 else:
-    grade = "🥈 B등급 (평범한 섬 관리인)"
+    grade = "🥈 B등급 (열정페이 관리인)"
 
 print(f" 최종 경영 등급: {grade}")
 print("==================================================")
